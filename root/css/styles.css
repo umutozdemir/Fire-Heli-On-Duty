@@ -1,0 +1,59 @@
+#scoreField {
+    position: absolute;
+    font-size: 45px;
+    top: 10px;
+    width: 90%;
+    text-align: center;
+    z-index: 100;
+    display:block;
+}
+
+#ammoField {
+    position: absolute;
+    font-size: 45px;
+    top: 45px;
+    width: 80%;
+    text-align: left;
+    z-index: 100;
+    display:block;
+}
+
+#wind {
+    position: absolute;
+    font-size: 45px;
+    top: 85px;
+    width: 80%;
+    text-align: left;
+    z-index: 100;
+    display:block;
+}
+
+#waterFilled {
+    position: absolute;
+    font-size: 50px;
+    top: 50px;
+    width: 90%;
+    text-align: center;
+    z-index: 100;
+    display:block;
+}
+
+#highFly {
+    position: absolute;
+    font-size: 35px;
+    top: 100px;
+    width: 90%;
+    text-align: center;
+    z-index: 100;
+    display:block;
+}
+
+#fullAmmo {
+    position: absolute;
+    font-size: 50px;
+    top: 90px;
+    width: 90%;
+    text-align: center;
+    z-index: 100;
+    display:block;
+}
