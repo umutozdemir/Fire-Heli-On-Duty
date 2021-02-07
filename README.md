@@ -19,4 +19,4 @@ Controls: \
 \
 -Arrow keys to move spotlight \
 \
-You can use Delete Water button on the gui part to increase performance by deleting physics simulated water spheres. \
+You can use Delete Water button on the gui part to increase performance by deleting physics simulated water spheres.
