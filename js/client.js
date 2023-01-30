@@ -95,7 +95,7 @@ renderer.shadowMap.enabled = true;
 renderer.shadowMap.type = THREE.PCFShadowMap;
 document.body.appendChild(renderer.domElement);
 
-const controls = new THREE.OrbitControls(cameraP, renderer.domElement);
+const controls = new OrbitControls(cameraP, renderer.domElement);
 
 
 controls.addEventListener('change', render);
