@@ -1,3 +1,5 @@
+import * as THREE from 'three';
+
 class MoveableObject {
     // type -> 0 , helicopter
     // type -> 1 , fire truck
